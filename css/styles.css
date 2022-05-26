@@ -1,0 +1,23 @@
+body {
+  margin: inherit;
+}
+
+div {
+  height: 300px;
+}
+
+h1 {
+  margin-top: inherit;
+}
+
+.Top {
+  background-color: #242F9B;
+  padding: 20px;
+}
+
+.Mid {
+  background-color: #646FD4;
+}
+.Bot {
+  background-color: #9BA3EB;
+}
